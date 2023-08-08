@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Infobyte App</string>
+    <string name="logo_desc">App logo</string>
+    <string name="signup_info">Don\'t have an account? Sign up!</string>
+    <string name="already_have_acc_info">Already have an account? Signin!</string>
+    <string name="greetings">Hey there welcome to the CLUB!! Get to know exciting news about latest technologies here!</string>
+</resources>
